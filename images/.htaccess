@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Authorization Required"
+AuthUserFile /home/jhaskell/workdir/minemap/images/.htpasswd
+Require valid-user
